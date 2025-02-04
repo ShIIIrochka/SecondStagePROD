@@ -1,0 +1,8 @@
+README.md
+.venv/
+__pycache__/
+*.lock
+debug-log-config.yml
+*.log
+.pre-commit-config.yaml
+.env
